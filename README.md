@@ -12,7 +12,7 @@ This project is based on a dataset that includes chocolate bar reviews from vari
 - **Review Year**
 
 ## **Objectives**
-✅ Identify the relationship between cocoa percentage and ratings
+✅ Identify the relationship between cocoa percentage and ratings 
 ✅ Explore how bean origins influence chocolate quality  
 ✅ Analyze trends in chocolate ratings over time  
 ✅ Provide insights for manufacturers, marketers, and consumers  
@@ -47,5 +47,5 @@ The dataset was cleaned and analyzed using Tableau to generate interactive visua
 - Ratings have remained relatively stable, with a slight dip in 2008.
 
 ## **Visualizations**
-**Tableau Dashboard** : [Tableau Dashboard](https://public.tableau.com/app/profile/shikha.kamboj/viz/ChocolateRatingAnalysis-Final/ChocolateRatingsAnalysis)
-**Chocolate Ratings Dataset** : [Chocolate Ratings Dataset](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data)
+- **Tableau Dashboard** : [Tableau Dashboard](https://public.tableau.com/app/profile/shikha.kamboj/viz/ChocolateRatingAnalysis-Final/ChocolateRatingsAnalysis)
+- **Chocolate Ratings Dataset** : [Chocolate Ratings Dataset](https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data)
